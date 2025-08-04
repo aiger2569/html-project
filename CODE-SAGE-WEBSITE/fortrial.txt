@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <style>
+        /* Your CSS styles go here */
+        /* Example styles for the forum */
+        .container {
+            /* Your container styles */
+        }
+        .response-group {
+            /* Styles for the response group */
+        }
+        /* ... other styles ... */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="response-group">
+            <header>
+                <h2><strong>Lesson Title</strong><i class="fa fa-angle-right"></i><span class="header-dropdown-trigger">Activity Title</span></h2>
+            </header>
+            <div class="header-dropdown">
+                <!-- Dropdown content -->
+            </div>
+            <div class="response">
+                <div class="response__number">1</div>
+                <h1 class="response__title">Coffee emporium avondale humid german rivertown vine street findlay market historic architecture?</h1>
+                <div class="post-group">
+                    <div class="post">
+                        <div class="post__avatar"></div>
+                        <h3 class="post__author">Lester McTester</h3>
+                        <h4 class="post__timestamp">Oct 13 at 8:51pm</h4>
+                        <p class="post__body">Hamilton county river front museum center washington park breweries walnut hills findlay market christian moerlein flying pig ohio valley jazz festival union terminal fifty west coffee emporium chili.</p>
+                        <div class="post__actions">
+                            <div class="button button--approve"><i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-up solid"></i></div>
+                            <div class="button button--deny"><i class="fa fa-thumbs-o-down"></i><i class="fa fa-thumbs-down solid"></i></div>
+                            <div class="button button--fill comment-trigger"><span>Comment...</span></div>
+                            <div class="button button--flag"><i class="fa fa-comment-o"></i><i class="fa fa-comment solid"></i>2</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Your JavaScript code for interactivity goes here -->
+</body>
+</html>
